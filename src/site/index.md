@@ -1,11 +1,11 @@
 ---
-title: Jay Kalansooriya | Wordsmith
-subtitle: Freelance Writer & Content Strategist Specialized in Startups & SMEs.
+title: Jay Kalansooriya 
+subtitle: Writer | Editor | Content Strategist </br> Featured on Indie Hackers, Brandjaxed, etc.
 layout: layouts/base.njk
 ---
 
 
-## What am I capable of?
+## I craft and distribute content that help companies grow exponentially. 
 
 From this point we should already have:
 
