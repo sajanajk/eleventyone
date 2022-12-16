@@ -1,11 +1,11 @@
 ---
 title: Jay Kalansooriya | Wordsmith
-subtitle: Freelance Writer & Content Strategist 
+subtitle: Freelance Writer & Content Strategist Specialized in Startups & SMEs.
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## What am I capable of?
 
 From this point we should already have:
 
