@@ -10,9 +10,4 @@ I'm a content marketer with almost a decade of experience. Mostly working in the
 
 I work part time with publications like NewsWire, Metro Gazette, The Herald, European Union Wire, etc. I have bylines with some of them.
 
-<div class="nakedLink">
-
-Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
-
-</div>
 
