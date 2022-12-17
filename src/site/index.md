@@ -1,6 +1,6 @@
 ---
 title: Jay Kalansooriya 
-subtitle: Writer | Editor | Content Strategist </br> Featured on Indie Hackers, Brandjaxed, etc.
+subtitle: Writer | Editor | Content Strategist </br> Featured on NewsWire, Metro Gazette, Indie Hackers, Brandjaxed, etc.
 layout: layouts/base.njk
 ---
 
