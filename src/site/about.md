@@ -1,12 +1,14 @@
 ---
-title: Get Yours
+title: Who am I?
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Learn more about me.
 ---
 
-## Hosting
+## Basics
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+I'm a content marketer with almost a decade of experience. Mostly working in the Public Relations sector. I make sure that whatever content goes out there is very good and people actually read them, or at least skim over.
+
+I work part time with publications like NewsWire, Metro Gazette, The Herald, European Union Wire, etc. I have bylines with some of them.
 
 <div class="nakedLink">
 
@@ -14,20 +16,3 @@ Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/0
 
 </div>
 
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
