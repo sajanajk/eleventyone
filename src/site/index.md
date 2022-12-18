@@ -8,7 +8,6 @@ layout: layouts/base.njk
 ## I craft and distribute content that help companies grow exponentially. 
 
 As a copywriter and a content strategist, working predominantly in the PR industry, I know exactly how to create good content as well as how to get that content in front of your audience and get it read. </br>
-If you don't know already, good content can make your business or it could break it (due to lack thereof). 
-
+I also work as a consultant-for-equity for bootstrapping startups.
 
 ## [Talk to me](mailto:sajanajk@gmail.com)
