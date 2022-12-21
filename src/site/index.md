@@ -10,6 +10,6 @@ layout: layouts/base.njk
 <i> Yes, content can do that. </i> </br>
 As a copywriter and a content strategist, working predominantly in the PR industry, I know exactly how to create good content as well as how to get that content in front of your audience and get it read. </br>
 I also work as a consultant-for-equity for bootstrapping startups. </br>
-Talk to me if you have a question or you'd like to work with me.
+Drop me a message if you have a question or you'd like to work with me.
 
-## [Talk to me](mailto:sajanajk@gmail.com)
+## [Contact Me](mailto:sajanajk@gmail.com)
