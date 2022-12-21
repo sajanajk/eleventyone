@@ -5,11 +5,11 @@ layout: layouts/base.njk
 ---
 
 
-## You're not on Google. Your voice isn't being heard. </br> You're missing out on leads.
-## That's where I come in.
-## I craft and distribute content that help companies grow exponentially. 
+## I craft and distribute branded content that help companies grow exponentially. 
 
+<i> Yes, content can do that. </i>
 As a copywriter and a content strategist, working predominantly in the PR industry, I know exactly how to create good content as well as how to get that content in front of your audience and get it read. </br>
 I also work as a consultant-for-equity for bootstrapping startups.
+Talk to me if you have a question or you'd like to work with me.
 
 ## [Talk to me](mailto:sajanajk@gmail.com)
