@@ -1,6 +1,6 @@
 ---
 title: Jay Kalansooriya 
-subtitle: Writer | Editor | Content Strategist </br> Featured on NewsWire, Metro Gazette, Indie Hackers, Brandjaxed, etc.
+subtitle: Wordsmith | Growth Hacker | Editor-in-Chief @ European News Wire </br> Featured on Euro Gazette, Indie Hackers, Brandjaxed, etc.
 layout: layouts/base.njk
 ---
 
