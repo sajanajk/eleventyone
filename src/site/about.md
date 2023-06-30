@@ -4,12 +4,15 @@ layout: layouts/base.njk
 subtitle: Learn more about me.
 ---
 
-## Bonjour! Guten Tag! Hola! 
+## Hello! Bonjour! Guten Tag! Hola! 
 
-I'm a content marketer with almost a decade of experience, working in various sectors. I make sure that whatever content goes out there is very good and people actually read them, or at least skim over.
+I'm a growth marketing expert, with almost a decade of experience, working in various sectors. 
 
-I work part time with publications like NewsWire, Le Politique, Metro Gazette, The Herald, European Union Wire, etc. I have bylines with some of them.
+I specialize in growing B2C startups and SMEs, in Tech, Finance, and Entertainment sectors.
+
+I've successfully built and sold a number of tier-2 blogs as a hobby, including AOX Crypto News, XM Bitcoin, etc.
 
 I'm also an amateur coding enthusiast, who dabbles in different languages.
 
+Reach out to me if you want to talk.
 
