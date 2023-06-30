@@ -1,6 +1,6 @@
 ---
 title: Jay Kalansooriya 
-subtitle: Growth Marketing Expert | Specialized in Rapid Growth for Startups and SMEs in Tech, Finance, Entertainmen, and B2C </br> Featured on Indie Hackers, Data Driven Investors, Brandjaxed, etc.
+subtitle: - Growth Marketing Expert | Specialized in Rapid Growth for Startups and SMEs in Tech, Finance, and Entertainment </br> - Featured on Indie Hackers, Data Driven Investors, Brandjaxed, etc.
 layout: layouts/base.njk
 ---
 
