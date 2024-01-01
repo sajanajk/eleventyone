@@ -4,13 +4,13 @@ layout: layouts/base.njk
 subtitle: Learn more about me.
 ---
 
-## Hello! Bonjour! Guten Tag! Hola! 
+## Bonjour! 
 
-I'm a growth marketing expert, with almost a decade of experience, working in various sectors. 
+I'm a marketing and public relations expert, with almost a decade of experience, working with various companies across many sectors. 
 
-I specialize in growing B2C startups and SMEs, in Tech, Finance, and Entertainment sectors.
+Want to take your brand to the next level? It all starts (and ends) with your reputation. 
 
-I've successfully built and sold a number of tier-2 blogs as a hobby, including AOX Crypto News, XM Bitcoin, etc.
+As a hobby, I've successfully built and sold a number of brands, including AOX Crypto News, XM Bitcoin, All Value Investing, etc.
 
 I'm also an amateur coding enthusiast, who dabbles in different languages.
 
